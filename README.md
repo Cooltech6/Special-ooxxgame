@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OOXX：冒險井字遊戲的全新體驗</title>
   <style>
     body {
       font-family: 'Courier New', monospace;
@@ -14,11 +15,12 @@
       height: 100vh;
       margin: 0;
       overflow: hidden;
-      padding: 10px;
     }
     #content {
       text-align: center;
       max-width: 800px;
+      padding: 20px;
+      overflow-y: auto;
     }
     h1 {
       font-size: 2.5em;
