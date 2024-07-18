@@ -14,7 +14,10 @@
     text-align: center;
     max-width: 800px;
   }
-
+  h1 {
+    font-size: 2.5em;
+    animation: glitch 1s infinite;
+  }
   p {
     margin: 20px 0;
   }
